@@ -189,7 +189,7 @@ h5 {
     background: orangered;
     padding: 10px 15px;
     margin-left: 180px;
-    margin-top: -23px;
+    margin-top: -32px;
     display: flex;
     border-radius: 5px;
     border: 1px solid black;
@@ -285,7 +285,7 @@ c {
 }
 h3 {
     color: red;
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     margin-top: -160px;
     margin-left: -20px;
